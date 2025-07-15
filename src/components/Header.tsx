@@ -1,4 +1,3 @@
-import React from 'react';
 import { SpeakerOnIcon, SpeakerOffIcon, GlobeIcon } from './Icons';
 
 type Language = 'en-US' | 'hi-IN' | 'en-IN';
