@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useEffect, useRef } from 'react';
+import { useState, useCallback, useEffect, useRef } from 'react';
 import type { Message } from './types';
 import { streamMessage } from './services/geminiService';
 import Header from './components/Header';
